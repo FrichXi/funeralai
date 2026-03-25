@@ -62,7 +62,7 @@ funeralai/                 Python 参考实现
 
 ## Python 参考实现
 
-`funeralai/` 目录是原始 CLI 版本（`pip install funeralai`），独立仓库在 [funaral-cli](https://github.com/FrichXi/funaral-cli)。Skill 版本不依赖 Python，复用你已有的 AI 编码环境。Python 版保留用于对照分析质量和批量分析。
+`funeralai/` 目录是原始 CLI 版本（`pip install funeralai`），独立仓库在 [funeral-cli](https://github.com/FrichXi/funeral-cli)。Skill 版本不依赖 Python，复用你已有的 AI 编码环境。Python 版保留用于对照分析质量和批量分析。
 
 > PDF 读取依赖 pymupdf（AGPL-3.0），pip 安装时注意 license 兼容性。Skill 版本不受影响。
 
@@ -76,7 +76,7 @@ funeralai/                 Python 参考实现
 
 ## 相关项目
 
-- [funaral-cli](https://github.com/FrichXi/funaral-cli) — CLI / TUI 交互工具，`pip install funeralai`
+- [funeral-cli](https://github.com/FrichXi/funeral-cli) — CLI / TUI 交互工具，`pip install funeralai`
 - [funeralai-web4](https://github.com/FrichXi/funeralai-web4) — 知识图谱可视化站点 → [funeralai.cc](https://funeralai.cc)
 
 ## License
