@@ -81,4 +81,4 @@ funeralai/                 Python 参考实现
 
 ## License
 
-[MIT](LICENSE)
+[AGPL-3.0](LICENSE)
